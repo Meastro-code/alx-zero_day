@@ -1,0 +1,2 @@
+echo "new read me " > README.md
+git add README.md
